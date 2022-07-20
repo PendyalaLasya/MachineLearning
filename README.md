@@ -1,17 +1,5 @@
 # MachineLearning
- ML GROUP ASSIGNMENT FINAL REPORT
- pendyala@pdx.edu - Lasya Pendyala thoutam@pdx.edu - Soumya Thoutam gurram@pdx.edu - Mounisha Gurram
-   TABLE OF CONTENT:
-INTRODUCTION:
-FEATURE ENGINEERING:
-Loading and viewing the dataset: Inspecting the dataset:
-Handling the missing data values: Preprocessing the data:
-ALGORITHMS:
-Logistic regression Model:
-Decision tree Classifier:
-Random Forest Classifier:
-Support Vector Machines (SVM) Model:
-CONCLUSION:
+
 INTRODUCTION:
  Our lives have become easier with credit cards but to get an approval for one is a very long process. Banks need to undergo many background checks to give an approval for a credit card because without this company or banks may be bankrupt. Though it's a tough job for banks to be done, it is a must! To make the task a bit simpler we need a sophisticated method to automate the process and speed it up. This helps to avoid organization losses by avoiding potential defaulters. In our project we focused on personal attributes like gender, age, occupation etc to cut down the weeks-long process and provide a faster credit decision.
 We extracted the data from the UCI Credit Approval Data Set to train the model. In the process of proceeding with the project challenges first we analyzed the data and did the data transformation. After exploratory analysis of data we prepared and applied different models to our transformed dataset, for this we split the dataset into train and test datasets. We allocated 75% to the training dataset and 25% to the testing dataset. After generating an analytic model the model is created to work on with the data to produce the required output.
